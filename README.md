@@ -22,6 +22,6 @@ Now we can conclude that people relatively like the products (in this case, the 
 
 To improve these ratings, Starbucks should focus on the following actions:
 
-Train customer service staff to handle technical problems, especially payment and card issues, while maintaining a helpful attitude, as some customers have appreciated.
-Make the terms and conditions more visually appealing so that customers can easily read and understand them. For example, use bullet points, bold key sentences and numbers, and "do's and don'ts.".
-Enhance card availability, as several customers have complained about being unable to use their cards.
+1. Train customer service staff to handle technical problems, especially payment and card issues, while maintaining a helpful attitude, as some customers have appreciated.
+2. Make the terms and conditions more visually appealing so that customers can easily read and understand them. For example, use bullet points, bold key sentences and numbers, and "do's and don'ts.".
+3. Enhance card availability, as several customers have complained about being unable to use their cards.
